@@ -1,0 +1,94 @@
+.cabecalho{
+    background-image:url("imagens/mine.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width: 297px;
+    height: 72px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    text-align: right;
+    
+}
+body{
+    text-align: center;
+    margin: 0;
+    background-image:url("imagens/fundo.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width: 370px;
+    height: 825px;
+
+}
+.rodape{
+    text-align: center;
+    margin: 0;
+    background-image:url("imagens/rodape.png");
+    width: 369px;
+    height: 99px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+   
+   
+}
+.cabecalhopaginas{
+    background-image:url("imagens/mine.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width: 369px;
+    height: 191px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    text-align: right;
+    
+}
+.história{
+    column-count: 2;
+    margin-right: 19px;
+    margin-left: 19px;
+    margin-top: 19px;
+}
+.videoimagem{
+    font-size: 18px;
+    text-align: justify;
+    width: 300px;
+}
+.funcionamento{
+    font-size: 18px;
+    text-align: justify;
+    width: 300px;
+}
+.historia{
+    font-size: 11px;
+    text-align: center;
+    color: rgb(104, 216, 104);
+       
+}
+.texto{
+    color: aliceblue;
+}
+#inicio{
+    text-align: right;  
+}
+.imagens{
+   
+ 
+  margin: 70px;
+  position: relative;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  display: flex;
+   
+}
+.funcionamento{
+    text-align: left; 
+    color: aliceblue;
+}
